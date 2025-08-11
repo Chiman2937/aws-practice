@@ -1,4 +1,5 @@
 # 📜 AWS S3 배포 연습
+(github action ci/cd 포함)
 
 cloudfront URL: https://d15iyn5bpzfcok.cloudfront.net/
 
